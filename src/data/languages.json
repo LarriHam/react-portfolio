@@ -1,0 +1,26 @@
+[
+    {
+        "value": "JavaScript",
+        "label": "JavaScript"
+    },
+    {
+        "value": "C#",
+        "label": "C#"
+    },
+    {
+        "value": "Python",
+        "label": "Python"
+    },
+    {
+        "value": "C++",
+        "label": "C++"
+    },
+    {
+        "value": "PHP",
+        "label": "PHP"
+    },
+    {
+        "value": "SQL",
+        "label": "SQL"
+    }
+]

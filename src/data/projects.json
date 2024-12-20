@@ -1,0 +1,48 @@
+[
+    {
+        "slug": "react-todo-app",
+        "title": "React Todo App",
+        "description": "This is my first react app. I used localStorage to store my todo items.",
+        "categories": ["Front-End Development"],
+        "technologies": ["React.js", "Bootstrap CSS"],
+        "languages": "JavaScript",
+        "images": [
+            {
+                "caption": "Screenshot 1",  
+                "url": "todo_image.jpg"
+            }
+        ],
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://react-todo-3c304.web.app/"
+            }
+        ],
+        "date": "2024",
+        "gitHub": "https://github.com/LarriHam/react-todo-app.git"
+        
+    },
+    {
+        "slug": "react-giphy",
+        "title": "React Giphy App",
+        "description": "This is my first app that connects to an api.",
+        "categories": ["Front-End Development"],
+        "technologies": ["React.js", "Bootstrap CSS", "Axios", "APIs"],
+        "languages": "JavaScript",
+        "images": [
+            {
+                "caption": "Screenshot 1",  
+                "url": "giphy.jpg"
+            }
+        ],
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://reactgiphy-1aeff.web.app/"
+            }
+        ],
+        "date": "2024",
+        "gitHub": "https://github.com/LarriHam/react-giph-main.git"
+        
+    }
+]
