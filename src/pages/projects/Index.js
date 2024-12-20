@@ -63,15 +63,15 @@ const Index = () => {
     }, [selectedLanguage]);
 
     const projectCards = filteredList.map((project, index) => {
-        return <ProjectCard key={index} project={project} />;
+        return <ProjectCard key={index} project={project}/>;
     });
 
     return (
         <>
-            <Stack direction={'row'} py={'20px'}>        
+            <Stack direction={'row'} py={'20px'}  >        
                 <FilterProjects setSearchTerm={setSearchTerm} setSelectedCategory={setSelectedCategory} setSelectedLanguage={setSelectedLanguage}/>          
             </Stack>
-            <Grid templateColumns="repeat(2, 1fr)" gap="">
+            <Grid templateColumns="repeat(2, 1fr)" gap="25px">
                 {projectCards}
             </Grid>
 
