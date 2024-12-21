@@ -67,5 +67,27 @@
         "date": "2024",
         "gitHub": "https://github.com/LarriHam/Lari-Portfolio.git"
         
+    },
+    {
+        "slug": "react-doctors",
+        "title": "React Doctor App",
+        "description": "This is a react app clinic manager that uses a doctors api to display and edit the info on the api.  ",
+        "categories": ["Front-End Development"],
+        "technologies": ["React.js", "Mantine UI", "Axios", "APIs"],
+        "languages": "JavaScript",
+        "images": [
+            {
+                "caption": "Screenshot 1",  
+                "url": "doctor.png"
+            }
+        ],
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://react-doctors-83f20.web.app/"
+            }
+        ],
+        "date": "2024",
+        "gitHub": "https://github.com/LarriHam/react-doctor.git"
     }
 ]
